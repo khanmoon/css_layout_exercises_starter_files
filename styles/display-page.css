@@ -1,0 +1,42 @@
+*{
+	box-sizing: border-box;
+}
+main{
+	font-size: 0px;
+}
+.contain {
+	margin-top: 90px;
+	box-sizing: border-box;
+	width: 800px;
+	height: 500px;
+	margin-left:auto;
+	margin-right: auto;
+
+}
+.box1 {
+	display: inline-block;
+	width: 50%;
+	height: 40%;
+	border: 1px solid black;
+}
+.box2 {
+	display: inline-block;
+	width: 33.33%;
+	height: 60%;
+	border: 1px solid black;
+}
+.green {
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.grey{
+	background-color: grey;
+}
+.black{
+	background-color: black;
+}
+.orange{
+	background-color: orange;
+}
